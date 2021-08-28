@@ -1,2 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+$  ./mario 
+height: -1
+height: 0
+height: 42
+height: 50
+height: 4
